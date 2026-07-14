@@ -1,0 +1,19 @@
+{
+  "name": "api-tools-knowledge-dev",
+  "description": "A collection of AI-powered plugins and skills for software development, designed to enhance productivity in Claude Code, OpenCode, and similar AI coding assistants.",
+  "owner": {
+    "name": "Chen Xie",
+    "email": "chenxie121@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "closed-loop-api-development-tools",
+      "description": "A collection of AI-powered plugins and skills for software development, designed to enhance productivity in Claude Code, OpenCode, and similar AI coding assistants.",
+      "author": {
+        "name": "Chen Xie",
+        "email": "chenxie121@gmail.com"
+      },
+      "source": "./"
+    }
+  ]
+}
