@@ -1,0 +1,8 @@
+{
+  "name": "closed-loop-ai-development-tools",
+  "version": "1.0.0",
+  "description": "A collection of AI-powered plugins and skills for software development",
+  "type": "module",
+  "main": ".opencode/plugins/plugin.js",
+  "keywords": ["opencode-plugin", "skills"]
+}
